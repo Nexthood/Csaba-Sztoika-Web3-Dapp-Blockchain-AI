@@ -19,7 +19,7 @@ Solution: Built a full-stack NFT minting dApp on Ethereum with smart contracts a
 
 Result: Secure, scalable, and user-friendly NFT creation and marketplace experience.
 
-Demo / Screenshot / GIF: [link]
+
 
 2️⃣ AI-Powered Analytics Tool
 
@@ -29,7 +29,7 @@ Solution: Developed an AI/ML tool that processes and visualizes data with predic
 
 Result: Users can make faster, data-driven decisions with minimal manual work.
 
-Demo / Screenshot / GIF: [link]
+
 
 3️⃣ Blockchain Payment & Escrow System
 
@@ -39,7 +39,7 @@ Solution: Smart contract-based payment and escrow solution integrated with Web3 
 
 Result: Reduced transaction risk and automated fund release for multiple users.
 
-Demo / Screenshot / GIF: [link]
+
 
 4️⃣ AI Chatbot & Automation
 
@@ -49,7 +49,7 @@ Solution: Built an AI-powered chatbot with NLP capabilities and workflow automat
 
 Result: Saved time and improved response quality for clients.
 
-Demo / Screenshot / GIF: [link]
+
 
 5️⃣ Decentralized Game / Web3 Game Mechanics
 
@@ -59,7 +59,7 @@ Solution: Developed smart contract-based in-game assets, token economy, and Web3
 
 Result: Players can truly own, trade, and monetize game assets on-chain.
 
-Demo / Screenshot / GIF: [link]
+
 
 Technical Expertise
 
