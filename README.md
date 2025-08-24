@@ -74,7 +74,7 @@ Available for Collaboration
 I am available for freelance projects, consulting, and partnerships.
 If you have a challenge or idea that requires Blockchain or AI expertise, let’s discuss how I can help you turn it into reality.
 
-📧 Email:+nexthood@proton.me
+📧 Email:nexthood@proton.me
 
 
 Why Work With Me
