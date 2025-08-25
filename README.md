@@ -1,6 +1,6 @@
-# Csaba-Sztoika-Web3-Dapp-Blockchain-AI
 
-🚀 Csaba Sztoika – Blockchain & AI Problem Solver
+
+🚀 – Blockchain & AI Problem Solver
 About Me
 
 I am a passionate technologist with over 5 years of hands-on experience solving complex problems using Blockchain and Artificial Intelligence. I specialize in building practical, innovative solutions that deliver measurable value – from NFT platforms and smart contracts to AI-powered automation and analytics.
